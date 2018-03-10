@@ -2,7 +2,7 @@
 
 A slideshow that uses the [CSS Glitch Effect](https://tympanus.net/codrops/2017/12/21/css-glitch-effect/) to transition between slides.
 
-![Image Title](link)
+![Glitch Slideshow](https://tympanus.net/codrops/wp-content/uploads/2018/03/GlitchSlideshow_featured.jpg)
 
 [Article on Codrops](https://tympanus.net/codrops/?p=34273)
 
